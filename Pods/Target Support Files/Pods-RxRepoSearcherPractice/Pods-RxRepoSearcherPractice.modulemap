@@ -1,0 +1,6 @@
+framework module Pods_RxRepoSearcherPractice {
+  umbrella header "Pods-RxRepoSearcherPractice-umbrella.h"
+
+  export *
+  module * { export * }
+}
